@@ -1,0 +1,25 @@
+﻿1CV8LOG(ver 2.0)
+c59c49ce-78af-44c1-85be-a1fbfc7e8a70
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"WIN-U6RERJGUUVN",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.ExclusiveModeChange",5},
+{4,"_$InfoBase$_.PredefinedDataUpdate",6},
+{5,b7be2f86-2b27-46c1-b3bb-0f67984dd8ea,"",1},
+{5,21eb90b5-81f9-4ea8-b2b9-2932cc55ef23,"",2},
+{5,1234799c-f23e-4e70-8cdc-44e4f16687b7,"",3},
+{5,0a3b2fce-5781-401e-a049-9b80c8e03c92,"",4},
+{5,bca0e0a0-e041-4271-a0a4-522a057f05ae,"",5},
+{5,18f08015-337f-4b3f-b4a4-e033be946c16,"",6},
+{5,7e219c8e-ad60-444b-abca-0606189fefd8,"",7},
+{5,82f8fccf-e976-4758-be5f-fea2df544f00,"",8},
+{4,"_$InfoBase$_.DBConfigUpdate",7},
+{4,"_$Access$_.Access",8},
+{3,"1CV8C",2},
+{4,"_$Session$_.Finish",9}
